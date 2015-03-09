@@ -1,0 +1,17 @@
+{
+  "name": "mousetrap",
+  "main": "mousetrap.js",
+  "version": "1.4.6",
+  "homepage": "https://github.com/fredericgrati/mousetrap",
+  "authors": [
+    "Frédéric GRATI <grati.frederic@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

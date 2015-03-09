@@ -948,6 +948,6 @@
 
     // expose mousetrap as an AMD module
     if (typeof define === 'function' && define.amd) {
-        define(Mousetrap);
+        define(function (){return Mousetrap});
     }
 }) (window, document);
